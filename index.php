@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!sss";
+echo "GIHAN JAYAWEERA - PHP WEB APP";
